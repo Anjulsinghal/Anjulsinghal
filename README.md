@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-<img src="https://avatars.githubusercontent.com/u/95030018?s=400&u=a287b4598d8513c18578e9e883564d27f9ecd61e&v=4" alt="Profile Image" width="30%" height="30%" align="right">
+<img src="https://avatars.githubusercontent.com/u/95030018?s=400&u=a287b4598d8513c18578e9e883564d27f9ecd61e&v=4" alt="Profile Image" width="20%" height="20%" align="right">
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anjulsinghals-projects.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://anjul.live]
 
 - 💬 Ask me about **Front-End or Back-end**
 
