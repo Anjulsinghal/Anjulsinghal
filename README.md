@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-End or Back-end**
 
-- 📫 How to reach me **singhalanjul75@gmail.com**
+- 📫 How to reach me **work.anjulsinghal@gmail.com**
 
 ## 🌐 Socials:
 
